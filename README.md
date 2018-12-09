@@ -1,10 +1,4 @@
-此源代码为视频 DevOpenClub 出品的免费视频教程配套源代码。
 
-视频版权为 [DevOpenClub](https://devopen.club/) 所有。
-
-[优酷播单地址](https://list.youku.com/albumlist/show/id_29397686)
-
-[Youtube 播单](https://www.youtube.com/playlist?list=PLXbU-2B80FvA5bNILAS8-zY3_KkE-PVn0)
 
 ## 微信小程序开发视频课程大纲
 
